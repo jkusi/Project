@@ -2,9 +2,22 @@
 # Organization: 	Personal Project
 		
 
-Project Title: SSH Failed logins and Web Vulnerability alert
+#Project Title: SSH Failed logins and Web Vulnerability alert
 
-Objective:
-Create a Bash script that search for failed ssh logins and Web Vulnerability such as SQL Injection, Cross Site Scripting (XSS), Cross Site Request Forgery (CSRF), Cookie Theft, DNS Spoofing etc. 
+#Objective:
+#Create a Bash script that search for failed ssh logins and Web Vulnerability such as SQL Injection, Cross Site Scripting (XSS), Cross Site Request Forgery (CSRF), Cookie Theft, DNS Spoofing etc. 
 
-# This project is in the script branch
+#!/bin/bash
+
+# Alert for 5 failed SSH logins
+if grep -q 'Failed password' /var/log/auth.log; then
+    if [ $(grep 'Failed password' /var/log/auth.log | wc -l) -ge 5 ]; then
+        echo "ALERT: Five or more failed SSH logins detected!" >> ~/alerts.txt
+    fi
+fi
+
+# Alert for SQL Injection, XSS, CSRF, Cookie Theft, DNS Spoofing
+if grep -q -Ei '(sql injection|xss|cross site scripting|csrf|cross site request forgery|cookie theft|dns spoofing)' /var/log/apache2/access.log; then
+    echo "ALERT: Suspicious activity detected in Apache access logs!" >> ~/alerts.txt
+fi
+
