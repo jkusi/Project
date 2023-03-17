@@ -7,7 +7,6 @@ Small businesses are often more vulnerable to cyberattacks due to their limited 
 This project aims to assess the current cybersecurity status of a small business, and implement best practices to improve its security posture.
 
 The project is divided into four phases:
-
 Cybersecurity Assessment: In this phase, tools like OpenVas, Nmap, Wireshark, Metasploit, and John the Ripperwere used to identify vulnerabilities and weaknesses 
 in the company's systems and infrastructure. The Cybersecurity Framework was used to guide the assessment process.
 
