@@ -1,0 +1,7 @@
+Deployed Proxmox server to virtualize machines and containers for AD environment. Configured pfSense firewall with Snort and Suricata for advanced threat detection and prevention.
+Implemented Elasticsearch and Kibana to collect and analyze system logs for monitoring and troubleshooting. Installed Elastic Defend for better network visibility and security against 
+attacks.
+Deployed Active Directory for user and resource management. Configured complaint for Windows Server 2019 DC, DNS, and DHCP. Installed Windows 10, 7, Ubuntu, and 
+Kali Linux client machines for compliance.
+Conducted regular security audits using tools such as OpenVAS, Nessus, Nmap, Metasploit etc. Deployed Security Onion for network traffic monitoring and analyzed logs 
+with Wireshark for early threat detection and prevention. 
