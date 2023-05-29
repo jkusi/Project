@@ -1,0 +1,42 @@
+# Name: Jeremiah Kusi
+# Organization: St. Luke Lutheran Community
+# Date: 09 January, 2023
+
+
+Project Title: System Monitoring
+
+Project Description: The goal of this project is to monitor a network using a Security Operations Center (SOC) and respond to potential security incidents. This project 
+should involve the following steps:
+
+Monitoring: Set up a SOC to monitor the network using tools such as SIEM (Security Information and Event Management), IDS/IPS (Intrusion Detection/Prevention System), 
+and other security tools. Configure the tools to collect logs and events from various sources, including network devices, servers, and endpoints. Monitor the SOC console 
+for alerts and incidents.
+Continuous Improvement: Implement a continuous improvement process to optimize the SOC. This includes regularly reviewing the logs and events to identify new threats 
+and vulnerabilities, and updating the SOC configuration as needed.
+
+Project Team:
+Jeremiah Kusi, Junior Security Analyst
+Jamey, IT Manager
+
+Project Timeline:
+Phase 1: Setup (1 month)
+Phase 2: Monitoring (6 months)
+Phase 3: Continuous Improvement (ongoing)
+
+Project Budget:
+$2,000
+
+
+The following project documentation will be created:
+Project plan
+Risk assessment
+Mitigation strategies
+Communication plan
+Change management plan
+Training plan
+
+Project Deliverables:
+The following project deliverables will be produced:
+SOC setup
+SOC monitoring
+SOC continuous improvement process
