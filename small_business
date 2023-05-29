@@ -1,26 +1,73 @@
 # Name: Jeremiah Kusi
 # Organization: Akron University
 
-Project Title: "Enhancing Cybersecurity for Small Businesses: Assessment and Implementation"
+Project Title: Enhancing Cybersecurity for Small Businesses: Assessment and Implementation
 
-Small businesses are often more vulnerable to cyberattacks due to their limited resources and less secure systems. 
+Project Description: Small businesses are often more vulnerable to cyberattacks due to their limited resources and less secure systems. 
 This project aims to assess the current cybersecurity status of a small business, and implement best practices to improve its security posture.
 
-The project is divided into four phases:
-Cybersecurity Assessment: In this phase, tools like OpenVas, Nmap, Wireshark, Metasploit, and John the Ripperwere used to identify vulnerabilities and weaknesses 
-in the company's systems and infrastructure. The Cybersecurity Framework was used to guide the assessment process.
+Project Goals:
+Identify vulnerabilities and weaknesses in the company's systems and infrastructure.
+Make recommendations to enhance the business's cybersecurity.
+Implement the recommendations and test their effectiveness.
+Monitor the systems to ensure that they remain secure.
+Project Methodology:
 
-Recommendations and Prioritization: Based on the assessment, recommendations were made to enhance the business's cybersecurity. 
-These recommendations included setting up firewalls, antivirus software, intrusion detection tools, upgrading systems, and having a 
-Security Information and Event Management (SIEM) platform such as Splunk. Prioritization of these recommendations was based on the severity and 
-likelihood of potential cyberattacks.
+The project will be divided into four phases:
+Cybersecurity Assessment: In this phase, tools like OpenVas, Nmap, Wireshark, Metasploit, and John the Ripper will be used to identify vulnerabilities and weaknesses in the 
+company's systems and infrastructure. The Cybersecurity Framework will be used to guide the assessment process.
+Recommendations and Prioritization: Based on the assessment, recommendations will be made to enhance the business's cybersecurity. These recommendations will include s
+etting up firewalls, antivirus software, intrusion detection tools, upgrading systems, and having a Security Information and Event Management (SIEM) platform such as Splunk. 
+Prioritization of these recommendations will be based on the severity and likelihood of potential cyberattacks.
+Implementation: The recommendations made in the previous phase will be implemented, including the installation of firewalls and antivirus software. 
+Third-party vendors will be contacted to help with the setup process. Snort and Splunk will be set up for the business, with employees trained on security best practices such as creating strong passwords and identifying phishing scams.
+Testing and Monitoring: After implementing the security measures, the systems will be tested and monitored using automated tools such as OpenVas, Nessus, and 
+Nmap to ensure effectiveness. The project will also emphasize the importance of understanding how Snort and Splunk work to maximize their potential.
 
-Implementation: The recommendations made in the previous phase were implemented, including the installation of firewalls and antivirus software. 
-Third-party vendors were contacted to help with the setup process. Snort and Splunk were set up for the business, with employees trained on security best 
-practices such as creating strong passwords and identifying phishing scams.
+Project Timeline:
+The project is expected to take 0ne months to complete.
 
-Testing and Monitoring: After implementing the security measures, the systems were tested and monitored using automated tools such as OpenVas, Nessus, and 
-Nmap to ensure effectiveness. The project also emphasized the importance of understanding how Snort and Splunk work to maximize their potential.
+Project Budget:
+The project budget is $1,000.
 
-In conclusion, the "Enhancing Cybersecurity for Small Businesses: Assessment and Implementation" project aims to improve the security posture of small businesses. By following the four phases outlined in this report, small businesses can significantly reduce the risk of cyberattacks and protect 
-their valuable data.
+Project Team:
+The project team will consist of the following members:
+Project Manager
+Security Engineer
+Analyst
+Third-party vendors
+
+Project Risks:
+The following risks have been identified for the project:
+The project may not be completed on time or within budget.
+The project may not be successful in improving the security posture of the business.
+The business may not be willing to implement the recommendations made by the project team.
+
+Project Mitigation Strategies:
+The following mitigation strategies have been developed to address the risks identified above:
+The project team will develop a detailed project plan and budget to ensure that the project is completed on time and within budget.
+The project team will work closely with the business to ensure that the recommendations are feasible and that the business is willing to implement them.
+
+Project Approvals:
+The project has been approved by the following stakeholders:
+Business owner
+CEO
+CIO
+CFO
+
+Project Documentation:
+The following project documentation will be created:
+Project plan
+Risk assessment
+Mitigation strategies
+Communication plan
+Change management plan
+Training plan
+Project Deliverables:
+
+The following project deliverables will be produced:
+Cybersecurity assessment report
+Recommendations report
+Implementation plan
+Testing and monitoring plan
+Final report
