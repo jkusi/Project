@@ -1,0 +1,31 @@
+Project Name: Wyndham worldwide 
+Role: system administrator II (DevOps) 
+Client: Wyndham (USA) 
+Environment: JENKINS, LINUX, WINDOWS, GIT, MAVEN, ANT, SHELL SCRIPTING, AWS, DOCKER, ANSIBLE
+
+Description:
+Wyndham Destinations is an American hospitality company. It is the holding company for RCI and other lodging brands. It was spun off from Cendant Corporation in July 2006. Wyndham Destinations, headquartered in Orlando, Florida, operates several hotel brands around the world.
+
+
+Responsibilities:
+•	Created best practices for branching & Merging Strategy to maintain the source code in the GIT version of Control Systems.
+•	Responsible for creating branches, merging, and resolving merging conflicts.
+•	Implementation/setup continuous project build and deployment delivery process using Subversion, Git, Jenkins, Tomcat
+•	Administered the automatic build process to ensure correct build execution and resolved the build issues.
+•	Configuring new jobs in Jenkins as per the requirement from dev team.
+•	Automated build & deployment and CI process for many projects from scratch. 
+•	Wrote build files and created jobs in Jenkins. 
+•	Configuration of nodes/slaves for Jenkins to optimize and smooth running of build jobs. 
+•	Configuration of Build Automation tools and Continuous Integration concepts by using tools like ANT, Maven, Jenkins. 
+•	Was involved in creating Docker Containers, images & taking back-up of images in Docker Hub. 
+•	Amazon Web Services (AWS) and with the configuration of various Amazon products (Amazon EC2, Amazon IAM, Amazon AMI, Amazon S3, ELB, Auto Scaling) 
+•	Creating Ansible playbook. 
+•	Configuration of Ansible and creating run-list for each node. 
+•	Configuration of Groups, roles and creation and assign to node. 
+•	Experience in troubleshooting application-level issues to perform root causes analysis, also performed training, design and knowledge transfer sessions. 
+•	Involved in Installing Jenkins on a Linux machine and created a master and slave configuration to implement multiple parallel builds through a build farm. 
+•	Experience with Continuous Integration / Continuous Deployment Tools as Jenkins and Hudson and strong experience with Maven Build Frameworks. 
+•	Experience implementing, troubleshooting, and supporting the enterprise web applications, and Application Server Tomcat.
+•	Administration of various environments in software development life cycle (SDLC) Windows, Ubuntu, Red Hat Linux and CentOS. Experience supporting Ansible Environment with multi servers and involved in developing manifests. 
+•	Provide support for Nagios. 
+•	Branching, Tagging, Release Activities on Version Control Tools: GitHub
