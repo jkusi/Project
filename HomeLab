@@ -1,8 +1,29 @@
-Deployed Proxmox server to virtualize machines and containers for AD environment. 
-Configured pfSense firewall with Snort and Suricata for advanced threat detection and prevention.
-Implemented Elasticsearch and Kibana to collect and analyze system logs for monitoring and troubleshooting. Installed Elastic Defend for better network visibility and security against 
-attacks.
-Deployed Active Directory for user and resource management. Configured complaint for Windows Server 2019 DC, DNS, and DHCP. Installed Windows 10, 7, Ubuntu, and 
-Kali Linux client machines for compliance.
-Conducted regular security audits using tools such as OpenVAS, Nessus, Nmap, Metasploit etc. Deployed Security Onion for network traffic monitoring and analyzed logs 
-with Wireshark for early threat detection and prevention. 
+# Jeremiah Kusi
+## IT Infrastructure and Security Specialist
+
+---
+
+**Summary:**
+Experienced IT professional with a strong background in virtualization, network security, and system administration. Adept at designing, implementing, and securing complex IT environments to ensure optimal performance, threat prevention, and efficient troubleshooting.
+
+**Technical Skills:**
+- Virtualization: Proxmox
+- Network Security: pfSense, Snort, Suricata, Elastic Defend
+- Log Analysis: Elasticsearch, Kibana, Security Onion, Wireshark
+- Active Directory: Windows Server 2019, AD, DNS, DHCP
+- Operating Systems: Windows 10/7, Ubuntu, Kali Linux 
+
+**Experience:**
+
+**IT Infrastructure and Security Specialist | [HomeLab] | **
+- Deployed and managed Proxmox server for efficient virtualization of machines and containers, enhancing resource utilization and scalability.
+- Configured pfSense firewall with Snort and Suricata, implementing advanced threat detection and prevention measures to safeguard the network.
+- Utilized Elasticsearch and Kibana to collect and analyze system logs, enabling effective monitoring, troubleshooting, and threat identification.
+- Installed and optimized Elastic Defend to enhance network visibility and security against various cyber threats and attacks.
+- Led the deployment of Active Directory, including Windows Server 2019 DC, DNS, and DHCP configuration, enabling centralized user and resource management.
+- Set up Windows 10, 7, Ubuntu, and Kali Linux client machines for compliance, ensuring a diverse and functional test environment.
+- Conducted regular security audits using tools like OpenVAS, Nessus, Nmap, and Metasploit to identify vulnerabilities and maintain a robust security posture.
+- Implemented Security Onion for network traffic monitoring, effectively analyzing logs with Wireshark for early threat detection and proactive prevention.
+
+
+
