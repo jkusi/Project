@@ -1,42 +1,70 @@
-# Name: Jeremiah Kusi
-# Organization: St. Luke Lutheran Community
-# Date: 09 January, 2023
+# System Monitoring Project Plan
+
+- **Name**: Jeremiah Kusi
+- **Organization**: *****
+- **Date**: 09 January 2023
+
+## Project Title: System Monitoring
+
+## Project Description
+
+The goal of this project is to establish an effective Security Operations Center (SOC) to monitor the network, respond to potential security incidents, and ensure the overall security posture of the organization. The project will involve the setup of monitoring tools, continuous improvement of the SOC, and collaboration with the project team to enhance network security.
+
+## Project Steps
+
+1. **Monitoring Setup:**
+   - Set up a SOC to monitor the network using SIEM, IDS/IPS, and other security tools.
+   - Configure tools to collect logs and events from network devices, servers, and endpoints.
+   - Monitor the SOC console for alerts and potential security incidents.
+
+2. **Continuous Improvement:**
+   - Establish a continuous improvement process for the SOC.
+   - Regularly review logs and events to identify new threats and vulnerabilities.
+   - Update SOC configuration and procedures as needed to respond to evolving security challenges.
 
 
-Project Title: System Monitoring
+## Project Timeline
 
-Project Description: The goal of this project is to monitor a network using a Security Operations Center (SOC) and respond to potential security incidents. This project 
-should involve the following steps:
+- **Phase 1: Setup** (1 month)
+  - Procure necessary hardware and software resources.
+  - Configure and deploy SIEM, IDS/IPS, and other security tools.
+  - Test SOC monitoring capabilities.
 
-Monitoring: Set up a SOC to monitor the network using tools such as SIEM (Security Information and Event Management), IDS/IPS (Intrusion Detection/Prevention System), 
-and other security tools. Configure the tools to collect logs and events from various sources, including network devices, servers, and endpoints. Monitor the SOC console 
-for alerts and incidents.
-Continuous Improvement: Implement a continuous improvement process to optimize the SOC. This includes regularly reviewing the logs and events to identify new threats 
-and vulnerabilities, and updating the SOC configuration as needed.
+- **Phase 2: Monitoring** (6 months)
+  - Monitor network logs and events.
+  - Respond to alerts and potential security incidents.
+  - Collaborate with IT team to address identified threats.
 
-Project Team:
-Jeremiah Kusi, Junior Security Analyst
-Jamey, IT Manager
+- **Phase 3: Continuous Improvement** (ongoing)
+  - Regularly review SOC logs and incidents.
+  - Update SOC procedures based on identified threats and vulnerabilities.
+  - Conduct training sessions for SOC team members.
 
-Project Timeline:
-Phase 1: Setup (1 month)
-Phase 2: Monitoring (6 months)
-Phase 3: Continuous Improvement (ongoing)
+## Project Budget
 
-Project Budget:
-$2,000
+- Total Budget: $2,000
 
+## Project Documentation
 
 The following project documentation will be created:
-Project plan
-Risk assessment
-Mitigation strategies
-Communication plan
-Change management plan
-Training plan
 
-Project Deliverables:
+- Project plan
+- Risk assessment
+- Mitigation strategies
+- Communication plan
+- Change management plan
+- Training plan
+
+## Project Deliverables
+
 The following project deliverables will be produced:
-SOC setup
-SOC monitoring
-SOC continuous improvement process
+
+- Fully functional SOC setup
+- Ongoing SOC monitoring and incident response
+- Improved SOC procedures and configurations
+
+## About Me
+
+I am a Junior Security Analyst passionate about enhancing network security and mitigating risks. For more information about me and my projects, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+
+
