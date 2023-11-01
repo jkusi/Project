@@ -4,15 +4,15 @@
 
 Welcome to my projects portfolio! This repository showcases my work in various IT and cybersecurity projects. Below, you'll find summaries of some of the key projects I've been involved in:
 
-## Enhancing Cybersecurity for Small Businesses
+## Setting up a Cybersecurity Home Lab
 
 ### Objective
 
-The objective of this project is to enhance the cybersecurity measures for small businesses by conducting a comprehensive assessment, implementing best practices, and establishing monitoring and prevention mechanisms.
+To set up a comprehensive home lab for learning and practicing cybersecurity.
 
 ### Description
 
-Small businesses often face vulnerabilities due to limited resources and less secure systems. This project focuses on addressing these challenges by:
+Here is a step-by-step guide to setting up a cybersecurity home lab:
 
 - Deploying a Proxmox server for efficient virtualization of machines and containers.
 - Configuring a pfSense firewall with Snort and Suricata for advanced threat detection and prevention.
@@ -22,9 +22,17 @@ Small businesses often face vulnerabilities due to limited resources and less se
 - Conducting regular security audits using tools like OpenVAS, Nessus, Nmap, and Metasploit.
 - Deploying Security Onion for network traffic monitoring and analysis with Wireshark.
 
-### Project Status
+## Enchancing Cybersecurity for Small Business: Assessment and Implementation
 
-The project is currently in progress, with major components successfully deployed and configured. Ongoing monitoring, testing, and fine-tuning are being performed to ensure the effectiveness of implemented measures.
+### Objective
+
+This project proposes to enhance the cybersecurity posture of small businesses by conducting a comprehensive assessment of their current security posture and implementing best practices to mitigate risks. The project will involve identifying vulnerabilities, making recommendations for improvement, implementing security measures, and monitoring their effectiveness.
+
+### Project Goals:
+- Identify vulnerabilities and weaknesses in the company's systems and infrastructure.
+- Make recommendations to enhance the business's cybersecurity.
+- Implement the recommendations and test their effectiveness.
+- Monitor the systems to ensure sustained security.
 
 ## System Monitoring Project Plan
 
@@ -64,6 +72,6 @@ For more information on these and other projects, please explore the individual 
 
 ## About Me
 
-I am Jeremiah Kusi, an IT and cybersecurity enthusiast with a passion for enhancing network security and mitigating risks. Connect with me on [LinkedIn] https://www.linkedin.com/in/jeremiah-kusi-059875223/ to learn more about me and my projects.
+I am Jeremiah Kusi, an IT and cybersecurity enthusiast with a passion for enhancing, internal pentesting, network security and mitigating risks. Connect with me on [LinkedIn] https://www.linkedin.com/in/jeremiah-kusi-059875223/ to learn more about me and my projects.
 
 
