@@ -11,19 +11,33 @@ Experienced IT professional with a strong background in virtualization, network 
 - Network Security: pfSense, Snort, Suricata, Elastic Defend
 - Log Analysis: Elasticsearch, Kibana, Security Onion, Wireshark
 - Active Directory: Windows Server 2019, AD, DNS, DHCP
-- Operating Systems: Windows 10/7, Ubuntu, Kali Linux 
+- Operating Systems: Windows 10/11, Ubuntu, Kali Linux, MacOs
 
 **Experience:**
 
 **IT Infrastructure and Security Specialist | [HomeLab] | **
-- Deployed and managed Proxmox server for efficient virtualization of machines and containers, enhancing resource utilization and scalability.
-- Configured pfSense firewall with Snort and Suricata, implementing advanced threat detection and prevention measures to safeguard the network.
-- Utilized Elasticsearch and Kibana to collect and analyze system logs, enabling effective monitoring, troubleshooting, and threat identification.
-- Installed and optimized Elastic Defend to enhance network visibility and security against various cyber threats and attacks.
-- Led the deployment of Active Directory, including Windows Server 2019 DC, DNS, and DHCP configuration, enabling centralized user and resource management.
-- Set up Windows 10, 7, Ubuntu, and Kali Linux client machines for compliance, ensuring a diverse and functional test environment.
-- Conducted regular security audits using tools like OpenVAS, Nessus, Nmap, and Metasploit to identify vulnerabilities and maintain a robust security posture.
-- Implemented Security Onion for network traffic monitoring, effectively analyzing logs with Wireshark for early threat detection and proactive prevention.
+- Deploy a Proxmox server. Proxmox is a free and open-source virtualization platform that allows you to create 
+and manage multiple virtual machines (VMs) on a single physical server. This is essential for a home lab, 
+as it allows you to run multiple different cybersecurity tools and appliances without having to purchase multiple 
+physical machines.
+- Configure a pfSense firewall. pfSense is a free and open-source firewall that provides a wide range of security features, 
+including intrusion detection and prevention, VPN support, and traffic shaping. It is a popular choice for home labs 
+because it is easy to configure and use.
+- Implement Elasticsearch and Kibana. Elasticsearch is a distributed search and analytics engine, 
+and Kibana is a data visualization dashboard. Together, they can be used to collect and analyze system logs from your VMs 
+and other devices on your network. This can be helpful for monitoring and troubleshooting security incidents.
+- Install Elastic Defend. Elastic Defend is a commercial add-on for Elasticsearch that provides additional security features,
+such as anomaly detection and threat hunting. It is not required for a home lab, but it can be helpful 
+if you are serious about learning and practicing cybersecurity.
+- Deploy an Active Directory environment. Active Directory is a directory service that provides user and resource management 
+for Windows networks. It is not required for a home lab, but it can be helpful if you want to learn and practice Windows 
+security.
+- Conduct regular security audits. Security audits are important for identifying vulnerabilities and security risks 
+in your network. There are a number of free and commercial security audit tools available, such as OpenVAS, Nessus, Nmap, 
+and Metasploit.
+- Deploy Security Onion. Security Onion is a Linux distribution that includes a variety of open-source security tools, 
+such as Snort, Suricata, and Wireshark. It is a popular choice for home labs because it provides a one-stop shop 
+for security monitoring and analysis.
 
-
+## There are a tones of videos on youtube that will help you with all of this.
 
